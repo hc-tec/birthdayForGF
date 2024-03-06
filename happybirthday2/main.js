@@ -305,7 +305,7 @@ window.requestAnimFrame = function () {
   
     var ifrm = document.createElement("iframe");
     ifrm.setAttribute("allowfullscreen", true)
-    ifrm.setAttribute("src", "https://player.bilibili.com/player.html?aid=430486897&bvid=BV1JG41137m4&cid=829804211&p=1");
+    ifrm.setAttribute("src", "https://player.bilibili.com/player.html??aid=1951264739&bvid=BV1GC411p7Bp&cid=1460898124&p=1");
     //ifrm.style.width = `${w}px`;
     //ifrm.style.height = `${h}px`;
     ifrm.style.border = 'none';
